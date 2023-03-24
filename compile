@@ -1,0 +1,7 @@
+cd ./c_auxiliary
+make
+mv ./auxiliary ../
+rm auxiliary.o
+rm utility.o
+rm xfunctions.o
+cd ../
